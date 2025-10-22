@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FavAppProj</string>
+    <string name="HomeString">Home</string>
+    <string name="FavoritesString">Favorites</string>
+</resources>
